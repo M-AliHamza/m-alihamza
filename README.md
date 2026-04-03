@@ -8,7 +8,7 @@ Alongside my expertise in automation and AI, I am an experienced Full-Stack Deve
 
 - 🌍  I'm based in Sargodha, Pakistan
 - ✉️  You can contact me at [alihamza.softdev@gmail.com](mailto:alihamza.softdev@gmail.com)
-- 🚀  I'm currently working on [GoSign](https://www.gosign.de/en/)
+- 🚀  I'm currently working in [GoSign](https://www.gosign.de/en/)
 
 ### Skills
 
