@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ali Hamza
 
-## AI Engineer | Workflow Automation Expert | Full-Stack Developer
+## AI Engineer | Full-Stack Developer
 
 I am an AI Engineer and Workflow Automation Specialist with a strong focus on building intelligent, scalable systems that streamline business processes and enhance productivity. Leveraging tools such as LangChain, LangGraph, n8n, and Trigger.dev, along with Azure AI services. I design and implement advanced automation workflows and AI-powered solutions tailored to modern enterprise needs.
 
