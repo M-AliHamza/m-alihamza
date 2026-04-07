@@ -1,14 +1,21 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ali Hamza
 
-## AI Engineer | Full-Stack Developer
+## Backend Engineer | AI & Automation
 
-I am an AI Engineer and Workflow Automation Specialist with a strong focus on building intelligent, scalable systems that streamline business processes and enhance productivity. Leveraging tools such as LangChain, LangGraph, n8n, and Trigger.dev, along with Azure AI services. I design and implement advanced automation workflows and AI-powered solutions tailored to modern enterprise needs.
+Backend Engineer with 3+ years of experience building scalable APIs and server-side 
+systems, with deep expertise in AI integration, automation, and intelligent agent 
+development. Proficient in Python, FastAPI, and LangChain for LLM-powered applications, 
+backed by a strong foundation in backend architecture including PHP/TYPO3, REST APIs, 
+and cloud services on Azure.
 
-Alongside my expertise in automation and AI, I am an experienced Full-Stack Developer with strong proficiency in Python, React, and Next.js. I specialize in building modern web applications, serverless cloud solutions, and AI-integrated systems. My work emphasizes clean architecture, maintainable code, secure API development, and high-performance applications, ensuring scalable and user-centric software solutions.
+I build production-ready systems that combine robust backend engineering with practical 
+AI and automation — from RAG pipelines and intelligent chatbots to enterprise workflow 
+automation using n8n and Azure AI services.
 
-- 🌍  I'm based in Sargodha, Pakistan
-- ✉️  You can contact me at [alihamza.softdev@gmail.com](mailto:alihamza.softdev@gmail.com)
-- 🚀  I'm currently working in [GoSign](https://www.gosign.de/en/)
+- 🌍 Based in Sargodha, Pakistan
+- 💼 Currently working at [GoSign](https://www.gosign.de/en/), Hamburg, Germany
+- ✉️ alihamza.softdev@gmail.com
+- 🔭 Open to backend + AI/automation roles
 
 ### Skills
 
