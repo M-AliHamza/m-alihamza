@@ -58,3 +58,6 @@ automation using n8n and Azure AI services.
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=m-alihamza&theme=github-dark&hide_border=true&cache_seconds=60)
